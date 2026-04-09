@@ -1,5 +1,5 @@
 """
-Project: GrabVenues
+Project: VenueBooking
 Author: Jiahui Wang
 Copyright (c) 2026 Jiahui Wang
 """
