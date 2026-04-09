@@ -1,0 +1,14 @@
+# IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# 不上传真实配置文件
+client/Config.py
+server/Config.py
+
+# 不上传这两个 funcs 文件
+client/funcs.py
+server/funcs.py
